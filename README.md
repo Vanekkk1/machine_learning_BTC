@@ -1,6 +1,6 @@
 # UofG_ml_BTC_returns
 
-University project about predicting Bitcoin (BTC) returns using ensemble machine learning models.
+University project about predicting Bitcoin (BTC) returns using ensemble machine learning models. Includes extensive fine-tuning code.
 
 ## Dataset
 
